@@ -1,0 +1,15 @@
+{
+  "name": "buger-eats",
+  "version": "1.0.0",
+  "description": "Projeto de teste de aceitação do app BugerEats",
+  "main": "npx cypress open",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Amanda Lima",
+  "license": "MIT",
+  "devDependencies": {
+    "cypress": "^10.1.0",
+    "cypress-file-upload": "^5.0.8"
+  }
+}
